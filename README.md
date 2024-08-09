@@ -1,3 +1,3 @@
-👋 Hi, I’m @freedom-matthew
+👋 Hi, I’m @freedom-matthew!
 👀 I’m interested in computer science, music and good tea.
-🌱 I’m currently learning .NET
+🌱 I’m currently learning C#.
